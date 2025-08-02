@@ -1,1 +1,1 @@
-[Tamerlane IIIF Viewer](https://github.com/tamerlaneviewer/tamerlane)
+Tamerlane is a lightweight IIIF (International Image Interoperability Framework) viewer built to make exploring, navigating, and searching annotated IIIF Presentation 3.0 resources simple and intuitive. Rather than aiming to be feature‑heavy, it focuses on delivering a clear, user‑friendly experience for working with annotated resources.
