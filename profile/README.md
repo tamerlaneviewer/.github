@@ -1,2 +1,1 @@
-# .github
-Tamerlane IIIF Viewer
+[Tamerlane IIIF Viewer](https://github.com/tamerlaneviewer/tamerlane)
